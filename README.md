@@ -1,6 +1,6 @@
 # News York Times
-Example Paywall. 
-[Pic](http://allpicts.in/wp-content/uploads/2016/10/Chicago-City-At-Night-for-Wallpaper.jpg)
+## Example Paywall. 
+![Pic](http://allpicts.in/wp-content/uploads/2016/10/Chicago-City-At-Night-for-Wallpaper.jpg)
 
 
 
